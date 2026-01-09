@@ -1,0 +1,27 @@
+# Contributing to ZkLite
+
+Thank you for your interest in contributing to **ZkLite**!  
+We welcome contributions of all kinds — code, documentation, examples, ideas, and bug reports.
+
+ZkLite aims to make zero-knowledge proofs on Zcash accessible without deep cryptography expertise, and your help makes that possible.
+
+---
+
+## 🧭 Ways to Contribute
+
+You can contribute by:
+- Fixing bugs
+- Adding new proof blocks
+- Improving documentation
+- Writing examples or templates
+- Proposing features or architectural improvements
+- Reviewing pull requests
+
+---
+
+## 🛠 Development Setup
+
+### 1. Fork & Clone
+```bash
+git clone https://github.com/your-username/zklite.git
+cd zklite
